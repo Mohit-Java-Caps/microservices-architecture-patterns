@@ -292,14 +292,3 @@ Security is enforced at multiple layers using API Gateway, token‑based authent
 ✅ Zero Trust is essential  
 
 > **In microservices, trust nothing—verify everything.**
-
----
-
-## What’s Next (Optional)
-
-You have now covered:
-✅ Architecture fundamentals  
-✅ Core design patterns  
-✅ Resilience patterns  
-✅ Observability  
-✅ Security  
